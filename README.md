@@ -5,6 +5,7 @@ We are seeking 1-2 undergraduate students to join our research team for Research
 
 ## Exploring extreme longevity and healthy aging in bats
 ![alt text](https://ucanr.edu/blogs/USS/blogfiles/34337.jpg) 
+
 photocredit: John Hoffman
 
 ### Background: 
