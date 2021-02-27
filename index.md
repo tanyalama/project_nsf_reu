@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## project_NSF_REU
 
-You can use the [editor on GitHub](https://github.com/tanyalama/project_NSF_REU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## NSF RESEARCH EXPERIENCE FOR UNDERGRADUATES (REU)
+We are seeking 1-2 undergraduate students to join our research team for Research Experiences for Undergraduates (REU) positions in the summer of 2021 (dates to-be-announced). The positions are supported through the National Science Foundation (NSF) and participants will receive a $6000 stipend ($15/h), and will be expected to participate full-time (35-40hr/week) for a period of 10 weeks. There is no limit on the geographic location of the student. However, due to our funding source, we are limited to individuals who are U.S. citizens, U.S. nationals, or permanent residents of the United States. Students must be enrolled as undergraduates in Fall 2021. In other words, students who have graduated or are graduating this spring in May 2021 are not eligible for this REU.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Exploring extreme longevity and healthy aging in bats
+![alt text](https://ucanr.edu/blogs/USS/blogfiles/34337.jpg) 
 
-### Markdown
+photocredit: John Hoffman
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Background:
+To date, most aging studies have been carried out in the laboratory on model species (e.g., mice) as they are easy to house and manipulate. However, bats are a fantastic wild-borne alternative to traditional model-based studies. Despite their small body size, many species of bats have independently evolved long lifespans. The student(s) will assist co-PIs Lama and Davalos in comparatively examining the genomes of short- and long-lived species of bats. Student(s) will develop their own research interests and computational skills (coding on the command line and in R) by exploring the evolution of genes and pathways underlying aging processes. In addition to research experience, students will participate in mandatory workshops on science ethics, science communication, and data visualization provided by the National Science Foundation.
 
-```markdown
-Syntax highlighted code block
+We are seeking enthusiastic undergraduates to join us for this opportunity – no prior research experience is required! The only expectation we have for the incoming student-researchers is some familiarity with genetics (e.g. an undergraduate genetics course). The ideal candidate will have (1) coding experience, or an interest in developing those skills, (2) a fierce sense of independence and curiosity, and (3) a will to persevere!
 
-# Header 1
-## Header 2
-### Header 3
+Our research group is committed to maintaining and further developing an equitable and inclusive research environment and we welcome students from all backgrounds to apply.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanyalama/project_NSF_REU/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Apply:
+If interested, please submit this application (https://forms.gle/2P7w6UexDnXkY9bc6) by March 12th, 2021. Feel free to email the principal investigator (PI) at the head of this recruitment, Dr. Tanya Lama (tanya.lama@stonybrook.edu) with any questions. Please do not contact Dr. Davalos regarding these positions.
