@@ -1,6 +1,5 @@
-## project_NSF_REU
-
 ## NSF RESEARCH EXPERIENCE FOR UNDERGRADUATES (REU)
+
 We are seeking 1-2 undergraduate students to join our research team for Research Experiences for Undergraduates (REU) positions in the summer of 2021 (dates to-be-announced). The positions are supported through the National Science Foundation (NSF) and participants will receive a $6000 stipend ($15/h), and will be expected to participate full-time (35-40hr/week) for a period of 10 weeks. There is no limit on the geographic location of the student. However, due to our funding source, we are limited to individuals who are U.S. citizens, U.S. nationals, or permanent residents of the United States. Students must be enrolled as undergraduates in Fall 2021. In other words, students who have graduated or are graduating this spring in May 2021 are not eligible for this REU. 
 
 ## Exploring extreme longevity and healthy aging in bats
